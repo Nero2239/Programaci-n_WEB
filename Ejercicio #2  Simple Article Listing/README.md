@@ -25,4 +25,4 @@ Deploy: [LINK](http://yomidev.github.io/newsletter/)
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+en si no fue tan dificil, y la paleta de colores lo tome el ejercicio anterior.
